@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component solution
 
-Essa é minha solução para o desafio [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges ajuda você a melhorar as suas habilidades com desafios parecidos com a realidade
+Essa é minha solução para o desafio [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges ajuda você a melhorar as suas habilidades com desafios parecidos com a realidade
 
 ## Tabela de Conteudo
 
